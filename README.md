@@ -11,7 +11,7 @@ And That’s It ...
 # React Template used
 **https://github.com/randomartlover/my-app-from-scratch**
 
-# my-app-from-scratch
+# About my-app-from-scratch
 Create a React App from Scratch in 2021
 Article guide: **https://javascript.plainenglish.io/create-a-react-app-from-scratch-in-2021-8e9948602e9c**
 
